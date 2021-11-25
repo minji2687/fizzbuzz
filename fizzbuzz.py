@@ -1,5 +1,7 @@
 def do_fizzbuzz():
-    print('Do fizzbuzz!')
+    i = 3
+    if i%3==0:
+        print('fizz')
     return True
 
 
