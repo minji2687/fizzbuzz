@@ -1,6 +1,7 @@
 def do_fizzbuzz():
-    for i in range(1,15+1):
-        print('{}'.format(i))
+    i = 3
+    if i%3==0:
+        print('fizz')
     return True
 
 
