@@ -1,5 +1,5 @@
 def do_fizzbuzz():
-    i = 3
+    i = 5
     if i%3==0:
         print('fizz')
     return True
